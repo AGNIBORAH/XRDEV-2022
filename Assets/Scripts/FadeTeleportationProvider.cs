@@ -66,7 +66,7 @@ public class FadeTeleportationProvider : TeleportationProvider
 
 
     // Update is called once per frame
-    protected override void Update()
+     void Update()
     {
         if (!validRequest)
         {
