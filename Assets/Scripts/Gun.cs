@@ -14,6 +14,7 @@ public class Gun : MonoBehaviour
     GameObject tempBullet;
 
     int randomBulletIndex;
+    //shoot function
     public void shoot()
     
     {
